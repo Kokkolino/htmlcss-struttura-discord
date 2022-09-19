@@ -88,3 +88,38 @@ nav *{
 .green{
     background-color: greenyellow;
 }
+
+.m-container{
+    height: 80vh;
+    width: 100%;
+}
+
+.f-col{
+    height: 80vh;
+    width: calc(75%/4);
+}
+.f-column{
+    flex-wrap: wrap;
+}
+
+.main-fcol{
+    width: 25%;
+    height: 80vh;
+}
+
+.red{
+    background-color: red;
+}
+
+.brown{
+    background-color: brown;
+}
+
+footer{
+    height: 15vh;
+    background-color: blue ;
+}
+
+footer div{
+    height: 15vh;
+}
