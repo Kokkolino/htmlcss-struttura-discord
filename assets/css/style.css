@@ -12,7 +12,11 @@ header{
 
 .container{
     width: 80%;
+}
+
+.red{
     background-color: red;
+
 }
 
 nav{
@@ -51,8 +55,6 @@ nav *{
     
 }
 
-.l{
-}
 
 .r{
     margin-left: 9%;
@@ -60,4 +62,29 @@ nav *{
 
 .gray{
     background-color: gray;
+}
+
+.lightg{
+    background-color: lightgray;
+}
+
+.huge-container{
+    height: 100vh;
+}
+
+.flex{
+    display: flex;
+}
+
+.rows{
+    width: 100%;
+    height: calc(100vh/3);
+}
+
+.aqua{
+    background-color: aquamarine;
+}
+
+.green{
+    background-color: greenyellow;
 }
