@@ -40,5 +40,24 @@ nav *{
 
 .columns-cont{
     width: 80%;
-    background-color: white;
+    padding: 15px;
+}
+
+.col{
+    height: 280px;
+    width: calc(90%/2);
+    background-color: aquamarine;
+    display: inline-block;
+    
+}
+
+.l{
+}
+
+.r{
+    margin-left: 9%;
+}
+
+.gray{
+    background-color: gray;
 }
